@@ -2,7 +2,7 @@ module github.com/livekit/livekit-cli
 
 go 1.22
 
-toolchain go1.22.2
+toolchain go1.22.5
 
 require (
 	github.com/frostbyte73/core v0.0.10
